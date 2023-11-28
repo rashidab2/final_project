@@ -1,0 +1,3 @@
+dataset website https://www.kaggle.com/datasets/isaienkov/nba2k20-player-dataset/
+The dataset I'm plannig to analyze for this project is the NBA2k20 Player data set. I choose this data set because I play the game and was interested checking it out. I was thinking of either plotting the player rating, or doing some sort of graph. There are like 400+ players in the nba so if i focus on the team aspect and calculate the average for each team I think the graph would look more presentable. Also it will probably demonstrate which team you should likely choose when your playing.
+
